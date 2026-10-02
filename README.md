@@ -1,4 +1,4 @@
-# Investigating-an-Identity-Attack-in-Entra-ID
+# Azure Governance Incident investigation
 
 ## Scenario
 
