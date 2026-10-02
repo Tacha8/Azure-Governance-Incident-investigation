@@ -5,7 +5,6 @@
 An intern given temporary contributor access deployed a resource in azure that failed to meet compliance with the companies governance policy. As a engineer on-call, I was asked to reconstruct what happened and why the deployment was allowed amidst violating policy. 
 
 ## Environment
-One list: platform, services, tools, access level. Honest framing: "live multi-user Azure training tenant, Reader access." 
 
 - platform: Microsoft Azure
 - subcription: MHL
